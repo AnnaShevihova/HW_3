@@ -1,0 +1,5 @@
+ ID     Tester Actions                        Actyal Result
+ 
+ 1    Registration on the website             Passed
+ 2    Authorization on the website            Passed
+ 3    Sending mail on the mailing list page   Bug
